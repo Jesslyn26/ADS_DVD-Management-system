@@ -1,5 +1,6 @@
 # DVD Management System
 Creating a menu to rent and return DVD for DVD store for both admin and customer. Implemented Binary Search Tree to easily store and search customer's data, while implementing Linked List for the DVD storage 
+
 ![image](https://github.com/Jesslyn26/ADS_DVD-Management-system/assets/79516995/6901362e-db07-4da3-8b2d-3fb8d067b496)
 
 
