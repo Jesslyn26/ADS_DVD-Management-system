@@ -13,7 +13,7 @@ Creating a menu to rent and return DVD for DVD store for both admin and customer
 - linkedListSvd.py =  LinkedList class that add DVD data to linked list, print DVD menu, rent DVD, return DVD, update DVD stock, search DVD, update DVD data in csv
 - mainDVD.py = the main program for both admin and customer
 
-## Customer panel
+## Customer Panel
 - Customer can rent and return DVD
 - Customer can not return a DVD that is not listed in the DVD list
 - Customer can find and print all DVD
